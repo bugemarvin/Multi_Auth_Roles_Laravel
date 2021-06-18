@@ -50,8 +50,8 @@
         <header class="masthead text-center text-white">
             <div class="masthead-content">
                 <div class="container px-5">
-                    <h1 class="masthead-heading mb-0">Marvin Buge Kurland</h1>
-                    <h2 class="masthead-subheading mb-0">Full stack web developer</h2>
+                    <h1 class="masthead-heading mb-0">Multi-Auths-Roles</h1>
+                    <h2 class="masthead-subheading mb-0">Randomizing authentication for different users</h2>
                     <a class="btn btn-primary btn-xl rounded-pill mt-5" href="#scroll">Learn More</a>
                 </div>
             </div>
