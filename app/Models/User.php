@@ -21,7 +21,7 @@ class User extends Authenticatable
         'email',
         'role',
         'favoriteColor',
-        'profilepictuer',
+        'profilepicture',
         'password',
     ];
 
@@ -44,11 +44,11 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
     ];
 
-    public function getProfilepictuerAttribute($value){
+    public function getProfilepictureAttribute($value){
         if($value){
             return asset('img/users/pro-pic/'.$value);
         }else{
-            return asset('img/no-image.jpg');
+            return asset('img/users/pro-pic/no-image.jpg');
         }
     }
 

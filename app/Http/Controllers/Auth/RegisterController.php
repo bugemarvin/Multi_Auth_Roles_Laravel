@@ -85,12 +85,24 @@ class RegisterController extends Controller
             'password' => ['required', 'string', 'min:8', 'confirmed'],
         ]);
 
+        /**Making avatar for users */
+
+        $path = 'img/users/pro-pic/';
+        $fontpath = public_path('fonts/Oliciy.ttf');
+        $char = strtoupper($request->name[0]);
+        $newAvatarName = rand(12,343).time().'_avatar.png';
+        $dest = $path.$newAvatarName;
+
+        $createAvatar = makeAvatar($fontpath,$dest,$char);
+        $profilepicture = $createAvatar == true ? $newAvatarName : '';
+
         $user = new User();
         $user->name = $request->name;
         $user->email = $request->email;
         $user->role =2;
         $user->favoriteColor = $request->favoriteColor;
-        $user->password = \Hash::make($request->password);
+        $user->profilepicture = $profilepicture;
+        $user->password = Hash::make($request->password);
 
         if( $user->save()){
             return redirect()->back()->with('Success','Registration was Successful');
