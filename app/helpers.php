@@ -4,7 +4,7 @@
  */
 
  if(!function_exists('makeAvatar')){
-    Function makeAvatar($fontpath, $dest, $char){
+    function makeAvatar($fontpath, $dest, $char){
         $width = '200';
         $height = '200';
         $path = $dest;
