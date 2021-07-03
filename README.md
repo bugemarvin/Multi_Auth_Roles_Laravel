@@ -15,10 +15,10 @@ The multi_auth roles_laravel is a web app with a login system that allows users 
 * [Adimlte for Dashboard](https://github.com/ColorlibHQ/AdminLTE/releases)
 
 ## UI Features
-1.Static UI
-  -Login
-   -Singup
-    -Password reset
+1. Static UI
+   -Login
+    -Singup
+     -Password reset
 
 ## Backend 
 * Mysql
