@@ -5,7 +5,7 @@ The multi_auth roles_laravel is a web app with a login system that allows users 
 # Multi_Auth_Roles_Laravel
 
 
-[![uses !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/bugemarvin)
+[![uses !](https://img.shields.io/badge/USES%20THE-FOLLOWING:-1abc9c.svg)](https://github.com/bugemarvin)
 
 
 ## What is requiered
