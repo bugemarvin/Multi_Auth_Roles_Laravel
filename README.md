@@ -16,8 +16,8 @@ The multi_auth roles_laravel is a web app with a login system that allows users 
 
 ## UI Features
 1.Static UI
-    -Login
-    -singup
+  -Login
+   -Singup
     -Password reset
 
 ## Backend 
