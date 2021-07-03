@@ -10,9 +10,15 @@ The multi_auth roles_laravel is a web app with a login system that allows users 
 [![uses !](https://img.shields.io/badge/Requiered%20install-Laravel-1abc9c.svg)](https://github.com/bugemarvin)<br/>
 [![uses !](https://img.shields.io/badge/Requiered%20install-NodeJs-1abc9c.svg)](https://github.com/bugemarvin)<br/>
 
-## Ui Api
+## UI Api
 * Bootstrap
 * [Adimlte for Dashboard](https://github.com/ColorlibHQ/AdminLTE/releases)
+
+## UI Features
+1.Static UI
+    -Login
+    -singup
+    -Password reset
 
 ## Backend 
 * Mysql
