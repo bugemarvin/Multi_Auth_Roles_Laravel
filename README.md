@@ -6,10 +6,14 @@ The multi_auth roles_laravel is a web app with a login system that allows users 
 
 ### Tools used:
 
-[![uses !](https://img.shields.io/badge/Requiered%20install-Composer-1abc9c.svg)](https://github.com/bugemarvin)
-[![uses !](https://img.shields.io/badge/Requiered%20install-Laravel-1abc9c.svg)](https://github.com/bugemarvin)
-[![uses !](https://img.shields.io/badge/Requiered%20install-NodeJs-1abc9c.svg)](https://github.com/bugemarvin)
+[![uses !](https://img.shields.io/badge/Requiered%20install-Composer-1abc9c.svg)](https://github.com/bugemarvin)<br/>
+[![uses !](https://img.shields.io/badge/Requiered%20install-Laravel-1abc9c.svg)](https://github.com/bugemarvin)<br/>
+[![uses !](https://img.shields.io/badge/Requiered%20install-NodeJs-1abc9c.svg)](https://github.com/bugemarvin)<br/>
 
 ## Ui Api
 * Bootstrap
 * [Adimlte for Dashboard](https://github.com/ColorlibHQ/AdminLTE/releases)
+
+## Backend 
+* Mysql
+* Laravel
