@@ -1,11 +1,25 @@
-# [Multi_Auth_Roles_laravel](https://github.com/bugemarvin/Multi_Auth_Roles_Laravel)
+## [Multi Authentication Roles](https://github.com/bugemarvin/Multi_Auth_Roles_Laravel)
 
-This is an application defines differnt user roles, depending on the type of users roles.
+The multi_auth roles_laravel is a web app with a login system that allows users to login to the dashboard section, in accordance to the roles assinged for specific users and their allowed priviledegs.
 
+# Multi_Auth_Roles_Laravel
 
+### Tools used:
 
-## What is requiered
+[![uses !](https://img.shields.io/badge/Requiered%20install-Composer-1abc9c.svg)](https://github.com/bugemarvin)<br/>
+[![uses !](https://img.shields.io/badge/Requiered%20install-Laravel-1abc9c.svg)](https://github.com/bugemarvin)<br/>
+[![uses !](https://img.shields.io/badge/Requiered%20install-NodeJs-1abc9c.svg)](https://github.com/bugemarvin)<br/>
 
-* Composer
-* PHP Laravel
+## UI Api
+* Bootstrap
 * [Adimlte for Dashboard](https://github.com/ColorlibHQ/AdminLTE/releases)
+
+## UI Features
+1. Static UI
+   -Login
+    -Singup
+     -Password reset
+
+## Backend 
+* Mysql
+* Laravel
