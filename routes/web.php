@@ -23,7 +23,7 @@ Route::get('/', function () {
 
 Route::middleware(['middleware'=>'PreventBackHistory'])->group(function(){
     Auth::routes([
-        'register' => false
+       //disabling routes and enabling routes
     ]);
 });
 
