@@ -3,8 +3,12 @@ html,body {
 }
 
 body.my-login-page {
-	background-color: #f7f9fb;
+	background-color: #f5f8fb;
 	font-size: 14px;
+}
+
+section .hts {
+    max-height: 100vh;
 }
 
 .my-login-page .brand {
@@ -39,7 +43,7 @@ body.my-login-page {
 }
 
 .my-login-page .form-control {
-	border-width: 2.3px;
+	border: none;
 }
 
 .my-login-page .form-group label {
