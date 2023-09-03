@@ -1,6 +1,6 @@
 ## [Multi Authentication Roles](https://github.com/bugemarvin/Multi_Auth_Roles_Laravel)
 
-The multi_auth roles_laravel is a web app with a login system that allows users to login to the dashboard section, in accordance to the roles assinged for specific users and their allowed priviledegs.
+The multi_auth roles_laravel is a web app with a login system that allows users to login to the dashboard section, in accordance to the roles assigned for specific users and their allowed privileges.
 
 # Multi_Auth_Roles_Laravel
 
